@@ -1,0 +1,13 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Material interno (paletas dos apps e do Twenty): não publicar
+internal/
+
+# Artefatos temporários dos scripts
+tools/.build/
+tools/saida/
+__pycache__/
+.ipynb_checkpoints/
+.venv/

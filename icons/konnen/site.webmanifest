@@ -1,0 +1,24 @@
+{
+  "name": "Konnen",
+  "short_name": "Konnen",
+  "theme_color": "#146B72",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "konnen-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "konnen-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "konnen-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
